@@ -1,3 +1,26 @@
-gitignore.io help:
-  list    - lists the operating systems, programming languages and IDE input types
-  :types: - creates .gitignore files for types of operating systems, programming languages or IDEs
+
+# Created by https://www.gitignore.io/api/Haskell
+
+### Haskell ###
+dist
+dist-*
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+.hpc
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+*.prof
+*.aux
+*.hp
+*.eventlog
+.stack-work/
+cabal.project.local
+.HTF/
+
+# End of https://www.gitignore.io/api/Haskell
