@@ -13,6 +13,7 @@ maintainer:          vonfry314@gmail.com
 category:            AI
 build-type:          Simple
 extra-source-files:  ChangeLog.md
+                  ,  readme.md
 cabal-version:       >=1.10
 
 library
