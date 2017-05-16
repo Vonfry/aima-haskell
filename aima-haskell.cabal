@@ -4,7 +4,7 @@
 name:                aima-haskell
 version:             0.1.0.0
 -- synopsis:
--- description:
+description:         aima with haskell for myself to exercise
 homepage:            https://github.com/VonFry/aima-haskell
 license:             GPL-3
 license-file:        LICENSE
@@ -18,6 +18,13 @@ extra-source-files:  ChangeLog.md
 cabal-version:       >=1.10
 
 Tested-With:         GHC == 8.0.2
+bug-reports:         https://github.com/VonFry/aima-haskell/issues
+Tested-With:         GHC == 8.0.2
+
+source-repository    head
+  type:     github
+  location: https://github.com/VonFry/aima-haskell
+
 
 library
   -- exposed-modules:
