@@ -3,7 +3,7 @@
 
 name:                aima-haskell
 version:             0.1.0.0
--- synopsis:
+synopsis:            aima
 description:         aima with haskell for myself to exercise
 homepage:            https://github.com/VonFry/aima-haskell
 license:             GPL-3
