@@ -17,6 +17,8 @@ extra-source-files:  ChangeLog.md
                   ,  readme.md
 cabal-version:       >=1.10
 
+Tested-With:         GHC == 8.0.2
+
 library
   -- exposed-modules:
   -- other-modules:
