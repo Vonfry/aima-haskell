@@ -8,7 +8,7 @@ module Data.Aima.Tree where
 -- @t@ is a tree data. It should have a param to save the node type.
 --
 -- I suggest every instance of this class also instance "Eq" and "Ord"
-class Tree t where
+class (Ord (t a)) => Tree t a where
     {-# MINIMAL parentTree, childrentTree, nodeT, insTree, delTree, orderTree #-}
 
     -- | Get the parent node of a tree.
