@@ -5,9 +5,12 @@ module Data.Aima.Tree where
 
 -- | Tree class.
 --
--- @t@ is a tree data. It should have a param to save the node type.
+-- @t@ is a tree data.
 --
--- I suggest every instance of this class also instance "Eq" and "Ord"
+-- @a@ is a tree node data.
+--
+-- This class should be bound with @Ord@. I think it will make the comparison more easily.
+--
 class (Ord (t a)) => Tree t a where
     {-# MINIMAL parentTree, childrentTree, nodeT, insTree, delTree, orderTree #-}
 
