@@ -26,7 +26,8 @@ source-repository    head
 
 
 library
-  exposed-modules:     Data.Aima.Tree
+  exposed-modules:     Aima.Data.Tree
+                     , Aima.Data.Graph
   -- other-modules:
   -- other-extensions:
   build-depends:       base >=4.9 && <4.10
