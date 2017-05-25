@@ -33,6 +33,8 @@ library
   hs-source-dirs:      src
   default-language:    Haskell2010
   default-extensions:  MultiParamTypeClasses
+                     , FlexibleInstances
+                     , FlexibleContexts
 
 Test-Suite             test-aima
   type:                exitcode-stdio-1.0
@@ -42,3 +44,5 @@ Test-Suite             test-aima
   default-language:    Haskell2010
   ghc-options:         -Wall
   default-extensions:  MultiParamTypeClasses
+                     , FlexibleInstances
+                     , FlexibleContexts
