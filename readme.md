@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/VonFry/aima-haskell.svg?branch=master)](https://travis-ci.org/VonFry/aima-haskell)
+[![Master Status](https://travis-ci.org/VonFry/aima-haskell.svg?branch=master)](https://travis-ci.org/VonFry/aima-haskell)
+[![Dev Status](https://travis-ci.org/VonFry/aima-haskell.svg?branch=div)](https://travis-ci.org/VonFry/aima-haskell)
 
 # Index
 
@@ -27,7 +28,7 @@ Haskell implementation of algorithms from Russell And Norvig's "Artificial Intel
 
 ## Intro
 
-It is a library for `AIMA`. So I think it can be used in any project. 
+It is a library for `AIMA`. So I think it can be used in any project.
 
 ## Install
 
@@ -39,11 +40,11 @@ You can install it with cabal or stack.
 
 ## Usage
 
-Details: see ***haddock***. 
+Details: see ***haddock***.
 
 The project contains data struct and algorithms. All data struct in `Aima.Data`. And algorithms are classified by function.
 
-For example: 
+For example:
 
 Searching algorithms is in `Aima.Search`. It contains `A*`, `bfs` and so on.
 
