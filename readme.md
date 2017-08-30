@@ -1,4 +1,7 @@
-# Aima-Haskell [![Travis Master](https://img.shields.io/travis/VonFry/aima-haskell/master.svg?label=stack+master)](https://travis-ci.org/VonFry/aima-haskell) [![Travis Develop](https://img.shields.io/travis/VonFry/aima-haskell/develop.svg?label=stack+develop)](https://travis-ci.org/VonFry/aima-haskell)
+# Aima-Haskell
+![lang: haskell](https://img.shields.io/badge/lang-haskell-brightgreen.svg)
+![mac support](https://img.shields.io/badge/macos-support-brightgreen.svg)
+[![Hackage](https://img.shields.io/hackage/v/aima-haskell.svg)]()
 
 # Index
 
