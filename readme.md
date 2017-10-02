@@ -21,6 +21,9 @@ This project is only for myself to exercise with `Haskell`.
 
 The code is written with a book named `AIMA`. [See more](#book-github)
 
+
+Because of many reasons, the project is developed very slowly. It may use many many many years.
+
 # Gitter
 [![Join the chat at https://gitter.im/Vonfry/aima-haskell](https://badges.gitter.im/Vonfry/aima-haskell.svg)](https://gitter.im/Vonfry/aima-haskell?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
