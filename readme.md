@@ -1,7 +1,14 @@
 # Aima-Haskell
 ![lang: haskell](https://img.shields.io/badge/lang-haskell-brightgreen.svg)
+<<<<<<< HEAD
 [![Travis Master](https://img.shields.io/travis/VonFry/aima-haskell/master.svg?label=master)](https://travis-ci.org/VonFry/aima-haskell)
 [![Travis Dev](https://img.shields.io/travis/VonFry/aima-haskell/develop.svg?label=develop)](https://travis-ci.org/VonFry/aima-haskell)
+=======
+![mac support](https://img.shields.io/badge/macos-support-brightgreen.svg)
+[![stack master](https://img.shields.io/travis/VonFry/aima-haskell/master.svg?label=master)](https://travis-ci.org/VonFry/aima-haskell)
+[![stack develop](https://img.shields.io/travis/VonFry/aima-haskell/develop.svg?label=develop)](https://travis-ci.org/VonFry/aima-haskell)
+[![Hackage](https://img.shields.io/hackage/v/aima-haskell.svg)]()
+>>>>>>> develop
 
 # Index
 
@@ -18,6 +25,9 @@
 This project is only for myself to exercise with `Haskell`.
 
 The code is written with a book named `AIMA`. [See more](#book-github)
+
+
+Because of many reasons, the project is developed very slowly. It may use many many many years.
 
 # Gitter
 [![Join the chat at https://gitter.im/Vonfry/aima-haskell](https://badges.gitter.im/Vonfry/aima-haskell.svg)](https://gitter.im/Vonfry/aima-haskell?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
