@@ -7,7 +7,7 @@ synopsis:            aima
 description:         aima with haskell for myself to exercise
 homepage:            https://github.com/VonFry/aima-haskell
 bug-reports:         https://github.com/VonFry/aima-haskell/issues
-license:             GPL-3
+license:             BSD3
 license-file:        LICENSE
 author:              Vonfry
 maintainer:          vonfry314@gmail.com
